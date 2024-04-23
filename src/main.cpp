@@ -2,7 +2,7 @@
 //Ethernet control; SD Card; Web Server; Request Handler
 //
 //
-//Git Alistarec
+//Github : https://github.com/alistaarec
 
 #include <Arduino.h>
 #include <WiFi.h>
